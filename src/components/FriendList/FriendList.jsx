@@ -1,7 +1,6 @@
 import PropTypes from 'prop-types';
 
-
-import { FriendListItem } from '../FriendListItem/FriendListItem.jsx';
+import { FriendListItem } from 'components/FriendListItem/FriendListItem.jsx';
 
 import s from './FriendList.module.css';
 
